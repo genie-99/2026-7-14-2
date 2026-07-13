@@ -2,4 +2,4 @@
 ## 수업순서
 Antigravity
 Markdown
-Git
+[Git](git.md)
