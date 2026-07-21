@@ -1,4 +1,4 @@
 interface:
   display_name: "Diary"
-  short_description: "Create a daily study diary GitHub Issue."
-  default_prompt: "Use $diary 오늘 학습 내용과 C:\\SSAFY workspace의 관련 수정사항을 확인해서 daily study diary issue를 만들어줘."
+  short_description: "Create or update a study diary Issue from today's folder and prompts."
+  default_prompt: "Use $diary to inspect today's date folder, summarize today's study with our conversation prompts, and create or update the GitHub diary Issue."
